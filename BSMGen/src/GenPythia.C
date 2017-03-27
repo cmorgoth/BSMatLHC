@@ -79,6 +79,7 @@ int main(int argc, char* argv[]) {
   
   //pythia.particleData.doForceWidth(1000005,true);
   //pythia.particleData.mayDecay(1000005, false);
+  //pythia.readString("1000022:tau0 = 5000"); 
   
   // Values for filter.
   int    pdgId   = 22; //ask for photons
